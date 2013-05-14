@@ -8,15 +8,16 @@ The RailsBridge Workshop is a free 1-and-a-bit day course run by a volunteer tea
 
 To attend, you should identify as a woman, or be the male guest of a woman who is attending. You should be comfortable using a computer, but no programming experience or hardware expertise is required.
 
-If you have your own laptop you should bring it along. We like Macs, but Windows and Linux machines are very welcome too.
+You should have you own laptop to bring along, we can install the development environment on Macs, Windows or Linux machines.
 
-[Ruby](http://www.ruby-lang.org/en/) is a free, open source programming language with a focus on simplicity and productivity, and [Ruby on Rails](http://rubyonrails.org/) is a web application framework: a reusable set of shortcuts that help you build dynamic web sites.
+[Ruby](http://www.ruby-lang.org/en/) is a free, open source programming language with a focus on simplicity and productivity, and [Ruby on Rails](http://rubyonrails.org/) is a web application framework: a reusable set of shortcuts that help you build dynamic web sites. The workshop teaches a practical skill useful to those investigating new career paths, looking to compliment their current skill set or just interested in gaining a better understanding of software.
 
 The workshop is made up of
 
 * an InstallFest on Friday night, with drinks and finger food, where we help you set up your computer with the software you'll need; and
 * an all-day Workshop on Saturday, including breakfast and lunch, where you learn to use both Ruby and Rails, and build a web app.
 
+By the end of it you will have built your very own web application and have it running on the world wide web. Although short, the course is designed and to give participants sufficient background and confidence to continue developing their Rails skills independently.
 
 ### Additional Information
 
